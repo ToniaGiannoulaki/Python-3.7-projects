@@ -1,3 +1,4 @@
+# This project wants the user to write a number and the programm (with the help of a library) chooses a random number between 0-100.
 import random
 
 ran_num = random.randint(0, 100)
